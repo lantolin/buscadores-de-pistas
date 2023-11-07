@@ -1,9 +1,9 @@
 # scavenger-hunt #
 
-This is a scavenger hunt to learn Linux commands. Our goal is to find all
-the clues and learn how to use basic Linux commands in the process.
+Un pequeño juego de busqueda de pistas que tiene como principal finalidad
+aprender el uso de comandos básicos de Linux.
 
-## Setup ##
+## Instalación ##
 
 If you are using a new Linux install or Live CD, you may need to install
 Git first (`sudo apt-get install git` on Ubuntu). Open a terminal and type:
